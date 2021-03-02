@@ -1,4 +1,4 @@
-# Codeforces_all_submission
+# Codeforces_all_AC_submission
 
 Steps :
 1. Open this URL in the web browser
